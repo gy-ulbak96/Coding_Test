@@ -32,4 +32,4 @@
 - [29. 약수의 합](https://github.com/gy-ulbak96/Coding_Test/blob/master/python_level_1/29.%20%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.md)
 - [30. 같은 숫자는 싫어](https://github.com/gy-ulbak96/Coding_Test/blob/master/python_level_1/30.%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.md)
 
-20번, 25번 문제는 아직 수정중.
+#### 20번, 25번 문제는 아직 수정중.
